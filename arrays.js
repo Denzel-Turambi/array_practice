@@ -7,7 +7,7 @@ console.log(names.pop());
 ages.push(28, 16);
 // push() adds one or more elements to the end of an array.
 console.log(ages);
-// this should output a the same array but with added elements at the end.
+// this should output how many elements are in the array.
 console.log(booleans.unshift(false, true));
 console.log(booleans);
 // unshift() adds one or more elements to the beginning of an array.
